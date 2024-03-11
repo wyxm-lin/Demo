@@ -1,0 +1,4 @@
+/home/wyxm/code/CodeCraft2024/xm/workspace/build/CMakeFiles/CodeCraft.dir
+/home/wyxm/code/CodeCraft2024/xm/workspace/build/CMakeFiles/main.dir
+/home/wyxm/code/CodeCraft2024/xm/workspace/build/CMakeFiles/edit_cache.dir
+/home/wyxm/code/CodeCraft2024/xm/workspace/build/CMakeFiles/rebuild_cache.dir

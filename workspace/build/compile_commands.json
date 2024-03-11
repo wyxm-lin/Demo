@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/wyxm/code/CodeCraft2024/xm/workspace/build",
+  "command": "/usr/bin/g++ -g -O2 -o CMakeFiles/CodeCraft.dir/demo.cpp.o -c /home/wyxm/code/CodeCraft2024/xm/workspace/demo.cpp",
+  "file": "/home/wyxm/code/CodeCraft2024/xm/workspace/demo.cpp"
+},
+{
+  "directory": "/home/wyxm/code/CodeCraft2024/xm/workspace/build",
+  "command": "/usr/bin/g++ -g -O2 -o CMakeFiles/main.dir/main.cpp.o -c /home/wyxm/code/CodeCraft2024/xm/workspace/main.cpp",
+  "file": "/home/wyxm/code/CodeCraft2024/xm/workspace/main.cpp"
+}
+]
